@@ -1,0 +1,19 @@
+Is the game too easy or hard? Give 3 unique reasons why it is easy or hard.
+
+I think that the game is too easy. The first reason that I think this is because you move very quickly so it's easy to grab and avoid power-ups. The second reason that I think that the game is too easy is because the power-ups move way too slowly. The last reason that I think that the game is too easy is because there are a few different obstacles in your way.
+
+What 3 changes would you do to make it easier or harder?
+
+The three changes that I would make to make the game harder would be to add a jump mechanic. I would then create an obstacle that you can only avoid by jumping. the last way that I would make it harder would be to speed up obstacles. 
+
+List three things that would give it a "wow" factor.
+
+I think that giving the prefab audio would make the game more engaging. I also think that giving the power-ups and obstacles different textures could wow some. Lastly, I think that a death animation would feel fitting due to the nature of the game.
+
+What parts of the game are fun? 3 items
+
+I think that trying to get a high score is intently fun. I also think that the obstacles give the game a more urgent tone that makes it seem very scary. I also think that the textures on the walls and ground give it some narrative which is fun.
+
+What parts of the game are tedious? 3 items
+
+The parts of the game that are tedious would have to be running in a straight line. I also think that the variation between spawns can be pretty boring. Lastly, I think that the time is too short, and feels repetitive every time you restart.
